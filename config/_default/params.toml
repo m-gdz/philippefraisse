@@ -5,7 +5,7 @@ rssFullContent = true
 favicon = "/favicon.ico"
 
 [footer]
-since = 2023
+since = 2013
 customText = "Toute reproduction partielle ou totale du site ainsi que l'utilisation frauduleuse (sans autorisation) des photographies est interdite."
 
 [dateFormat]
