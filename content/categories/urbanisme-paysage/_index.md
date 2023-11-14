@@ -1,6 +1,6 @@
 ---
 title: Urbanisme & Paysage
-image: /categories/urba1.jpg
+image: /philippefraisse/categories/urba1.jpg
 
 # Badge style
 style:

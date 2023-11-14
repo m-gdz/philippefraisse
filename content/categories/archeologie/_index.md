@@ -1,6 +1,6 @@
 ---
 title: Archéologie
-image: /categories/archeo1.jpg
+image: /philippefraisse/categories/archeo1.jpg
 
 # Badge style
 style:

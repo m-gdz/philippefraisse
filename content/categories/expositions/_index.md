@@ -1,6 +1,6 @@
 ---
 title: Expositions
-image: /categories/expo1.jpg
+image: /philippefraisse/categories/expo1.jpg
 
 # Badge style
 style:

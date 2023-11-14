@@ -1,6 +1,6 @@
 ---
 title: Scénographie
-image: /categories/sceno1.jpg
+image: /philippefraisse/categories/sceno1.jpg
 
 # Badge style
 style:

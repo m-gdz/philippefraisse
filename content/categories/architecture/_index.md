@@ -1,6 +1,6 @@
 ---
 title: Architecture
-image: /categories/archi1.jpg
+image: /philippefraisse/categories/archi1.jpg
 
 # Badge style
 style:
