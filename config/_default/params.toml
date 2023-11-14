@@ -2,22 +2,22 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/favicon.png"
+favicon = "/favicon.ico"
 
 [footer]
-since = 2020
-customText = ""
+since = 2023
+customText = "Toute reproduction partielle ou totale du site ainsi que l'utilisation frauduleuse (sans autorisation) des photographies est interdite."
 
 [dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "2006"
+lastUpdated = "2006"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = ""
+subtitle = "Architecte D.P.L.G"
 
 [sidebar.avatar]
-enabled = true
+enabled = false
 local = true
 src = "img/avatar.png"
 
@@ -26,7 +26,7 @@ math = false
 readingTime = true
 
 [article.license]
-enabled = true
+enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
@@ -75,7 +75,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
