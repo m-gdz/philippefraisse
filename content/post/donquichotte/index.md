@@ -1,7 +1,7 @@
 ---
 title: Don Quichotte / MASSENET
 date: 2001-01-01 00:00:00+0000
-image: don-quichotte-1.jpg
+image: don-quichotte-3.jpg
 categories:
     - SCENES
 ---

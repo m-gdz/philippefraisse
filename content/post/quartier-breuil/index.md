@@ -1,7 +1,7 @@
 ---
-title: Requalification du faubourg de Breuil / COMMERCY
+title: Requalification Faubourg Breuil COMMERCY
 date: 2004-01-01 00:00:00+0000
-image: detail-2.jpg
+image: image003.jpg
 categories:
     - URBANISME-PAYSAGE
 ---

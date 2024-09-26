@@ -1,7 +1,7 @@
 ---
 title: Rénovation de la salle des fêtes / SEMECOURT
 date: 1986-01-01 00:00:00+0000
-image: 8.jpg
+image: 9.jpg
 categories:
     - ARCHITECTURE
 ---

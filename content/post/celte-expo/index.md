@@ -1,7 +1,7 @@
 ---
 title: Celte de Hongrie / MUSEE ARCHÉOLOGIQUE DE ST-ROMAIN-EN-GAL
 date: 2001-01-01 00:00:00+0000
-image: image002.jpg
+image: image004.jpg
 categories:
     - EXPOSITIONS
 ---

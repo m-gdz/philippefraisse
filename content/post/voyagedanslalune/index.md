@@ -1,7 +1,7 @@
 ---
 title: Le voyage dans la lune / OFFENBACH
 date: 1999-01-01 00:00:00+0000
-image: 063.jpg
+image: 066.jpg
 categories:
     - SCENES
 ---

@@ -1,7 +1,7 @@
 ---
 title: Fascination de l'antique / MUSEE DE LA CIVILISATION GALLO-ROMAINE DE LYON
 date: 1998-01-01 00:00:00+0000
-image: image002.jpg
+image: image001_0.jpg
 categories:
     - EXPOSITIONS
 ---

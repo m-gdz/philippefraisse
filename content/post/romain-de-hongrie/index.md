@@ -1,7 +1,7 @@
 ---
 title: Romain de Hongrie / MUSEE DE LA CIVILISATION GALLO-ROMAINE DE LYON
 date: 2001-01-01 00:00:00+0000
-image: image002.jpg
+image: image001.jpg
 categories:
     - EXPOSITIONS
 ---

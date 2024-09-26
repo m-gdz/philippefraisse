@@ -1,7 +1,7 @@
 ---
 title: Extension du Groupe scolaire Saint Exupéry / VOLSTROFF
 date: 2017-01-01 00:00:00+0000
-image: vem_20180907_3.jpg
+image: vem_panorama_1_2.jpg
 categories:
     - ARCHITECTURE
 ---

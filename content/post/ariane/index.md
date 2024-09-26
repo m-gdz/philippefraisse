@@ -1,7 +1,7 @@
 ---
 title: Ariane et barbe bleue / DUKAS
 date: 2007-01-01 00:00:00+0000
-image: ariane-et-bb-8.jpg
+image: 488_aebagen.jpg
 categories:
     - SCENES
 ---

@@ -1,7 +1,7 @@
 ---
 title: Jackie O / DAUGHERTY
 date: 2002-01-01 00:00:00+0000
-image: 017.jpg
+image: jackieo-3_0.jpg
 categories:
     - SCENES
 ---

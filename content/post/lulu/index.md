@@ -1,7 +1,7 @@
 ---
 title: Lulu / BERG
 date: 2000-01-01 00:00:00+0000
-image: 039.jpg
+image: 042.jpg
 categories:
     - SCENES
 ---
